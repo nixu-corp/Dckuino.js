@@ -161,6 +161,7 @@ var digisparkcomboMap = {
   CONTROL:'MOD_CONTROL_LEFT',
   CTRL:'MOD_CONTROL_LEFT',
   GUI:'MOD_GUI_LEFT',
+  WINDOWS:'MOD_GUI_LEFT',
 };
 
 var digisparkcommandMap = {
